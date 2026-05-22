@@ -58,5 +58,5 @@ nav#menu a {
 
 nav#menu a:hover {
   background-color: var(--destaque);
-  color: var(--texto-inverso);
+  color: var(--texto-inverso);  
 }
